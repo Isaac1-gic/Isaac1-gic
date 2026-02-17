@@ -27,8 +27,8 @@ I'm a passionate developer who loves building tools that make life easier. Curre
 ---
 
 ### 📈 GitHub Stats:
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac1-gic&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac1-gic&layout=compact&theme=radical)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac1-gic&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac1-gic&layout=compact&theme=radical)
 
 ---
 
